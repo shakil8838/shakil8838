@@ -5,7 +5,7 @@
 <br><br>
 
 ### Contributions:
-<img src="http://github-readme-streak-stats.herokuapp.com?user=shakil8838&theme=dark&background=000000" alt="Contribution" title="My Contribution">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shakil8838&theme=dark&background=0d1117" alt="Contribution" title="My Contribution">
 
 ### Languages:
 <!---[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil8838&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)--->
