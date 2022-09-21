@@ -6,7 +6,7 @@
 ### Experience:
 <ul>
 <b>🏢 Onnorokom Group</b>
-<br>💼 Junior Software Engineer (Full time)
+<br>💼 Software Engineer (Full time)
 <br>📆 2022-01-01 to Present
 <br>
 <br><b>🏢 Jackal IT</b>
