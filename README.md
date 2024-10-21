@@ -1,31 +1,7 @@
 # Md Shakli Ahmed
-#### Android apps developer
+#### Software Engineer
 <br>
 <ul><p> <b>📬 Email:</b><a href="mailto:eng.shakil8838@gmail.com"> eng.shakil8838@gmail.com</a> &emsp; <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Md Shakil Ahmeds Linkedin" alt="Md Shakil Ahmeds Linkedin" width="16" height="16"><b> Linkedin:</b><a href="https://linkedin.com/in/shakil8838"> Md Shakil Ahmed</a></p></ul>
-
-### Experience:
-<ul>
-<b>🏢 Onnorokom Group</b>
-<br>💼 Software Engineer (Full time)
-<br>📆 2022-01-01 to Present
-<br>
-<br><b>🏢 Jackal IT</b>
-<br>💼 Android Apps Developer (Freelancer)
-<br>📆 2021-03-01 to 2021-12-31
-<br>
-<br><b>🏢 Edublock.co</b>
-<br>💼 Jr. Robotics Mobile Apps Developer (Contractual)
-<br>📆 2019-11-05 to 2020-03-31
-</ul>
-
-### Education:
-<b><ul>🎓 B.Sc in CSE</b>
-<br>🏫 Dhaka International University
-<br>📅 Enrolled
-<br><br>
-<b>🎓 Diploma in Computer Technology</b>
-<br>🏫 Bangladesh Polytechnic Institute
-<br>📆 Passign year: 2017</ul>
 
 ### Contributions:
 <ul><img src="http://github-readme-streak-stats.herokuapp.com?user=shakil8838&theme=dark&background=0d1117" alt="Contribution" title="My Contribution"></ul>
